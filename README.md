@@ -1,4 +1,4 @@
-# mysiteapi
+# MySiteApi
 
 In this project, i have build an API that only logged user can add data of our freedom fighter's.
 
@@ -13,3 +13,10 @@ In this project, i have build an API that only logged user can add data of our f
 
 4. In this page we can see login page, in which username and password of admin were used to access the data or add the data.
 ![Logging](https://user-images.githubusercontent.com/71487002/134859286-874da629-7a88-4d10-a9c2-4ea88cc7ee93.PNG)
+
+5.  
+![PostingNewData](https://user-images.githubusercontent.com/71487002/135078263-0493b968-61eb-412b-a487-da45dfe9c04f.PNG)
+
+6. In this page, we can see that when adding the fileds of the data, it is posted in the API.
+![DataPosted](https://user-images.githubusercontent.com/71487002/135078378-47c3aa6f-956f-4cd1-83f7-5d23ccd249cd.PNG)
+
